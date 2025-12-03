@@ -74,3 +74,8 @@ Created as a practice project for HTML & CSS fundamentals, layout design, and UI
 ---------
 This project is for educational and practice purposes only.
 You are free to modify and extend it.
+
+------------
+## 🎓 Learning Reference
+This Paytm UI clone was created while learning HTML & CSS from [Codegnan](https://codegnan.com/).
+
