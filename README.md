@@ -77,5 +77,5 @@ You are free to modify and extend it.
 
 ------------
 ## 🎓 Learning Reference
-This Paytm UI clone was created while learning HTML & CSS from [Codegnan](https://codegnan.com/).
+This Paytm UI clone was created while learning HTML & CSS from [Codegnan](https://codegnan.com/)....
 
